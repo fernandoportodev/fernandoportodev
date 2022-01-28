@@ -1,8 +1,10 @@
 ### Olá, eu sou o Fernando Porto!
 ##
 
-- 🌱 Estudando : Java
-- 😄 Pronouns: ele/dele
+- 🌱 Atualmente estou realizando um bootcamp para formação Desenvolvedor Java Full Stack
+- 😄 Fascinado pelo mundo dos games e da tecnologia
+
+##
 
 <div align="center">
   <a href="https://github.com/fernandoportodev">
