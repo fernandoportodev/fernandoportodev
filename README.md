@@ -1,7 +1,7 @@
 ### Olá, eu sou o Fernando Porto!
 ##
 
-- 🌱 Atualmente estou realizando um bootcamp para formação Desenvolvedor Java Full Stack
+- 🌱 Atualmente estou realizando um bootcamp para formação como Desenvolvedor Java Full Stack
 - 😄 Fascinado pelo mundo dos games e da tecnologia
 
 ##
