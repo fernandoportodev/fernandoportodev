@@ -5,7 +5,6 @@
 - 👾 Fascinado pelo mundo dos games e da tecnologia
 
 ##
-
 <div align="center">
   <a href="https://github.com/fernandoportodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoportodev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -20,7 +19,6 @@
    <img align="center" alt="Fer-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img align="center" alt="Fer-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  </div>
-  
  ##
   <h2> Contacts: </h2>
   <div>
