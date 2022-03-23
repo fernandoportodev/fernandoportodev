@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/fernandoportodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoportodev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoportodev&layout=demo&langs_count=7&theme=highcontrast"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoportodev&layout=demo&langs_count=7&theme=highcontrast"/>
 </div>
   <h2> Skills: </h2>
  <div style="display: inline_block"><br>
