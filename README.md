@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Fernando Porto! </h1>
 
 
-- 🌱 Sou programador Web Full Stack, com grande sede em aprender.
+- 🌱 Sou programador Web Full Stack.
 - 👾 Fascinado pelo mundo dos games e da tecnologia
 
 
