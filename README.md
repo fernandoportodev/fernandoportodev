@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Fernando Porto! </h1>
 
 
-- 🌱 Sou programador Web Full Stack.
+- 🌱 Sou programador Frontend Junior.
 - 👾 Fascinado pelo mundo dos games e da tecnologia
 
 
@@ -19,9 +19,7 @@
    <img align="center" alt="Fer-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img align="center" alt="Fer-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img align="center" alt="Fer-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-   <img align="center" alt="Fer-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img align="center" alt="Fer-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <img align="center" alt="Fer-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
  </div>
   
  ##
