@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Fernando Porto! </h1>
 
 
-- 🌱 Sou programador Frontend Junior.
+- 🌱 Sou programador Backend Junior.
 - 👾 Fascinado pelo mundo dos games e da tecnologia
 
 
