@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Fernando Porto! </h1>
 
 
-- 🌱 Sou programador Backend Junior.
+- 🌱 Estudando para se tornar um Analista de Testes (QA).
 - 👾 Fascinado pelo mundo dos games e da tecnologia
 
 
@@ -12,14 +12,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoportodev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoportodev&layout=demo&langs_count=7&theme=highcontrast"/>
 </div>
-  <h2> Skills: </h2>
- <div style="display: inline_block"><br>
+<!--   <h2> Skills: </h2>
+<!--  <div style="display: inline_block"><br>
    <img align="center" alt="Fer-NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
    <img align="center" alt="Fer-MySQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img align="center" alt="Fer-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img align="center" alt="Fer-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
- </div>
+ </div> --> -->
   
  ##
   <h2> Contacts: </h2>
