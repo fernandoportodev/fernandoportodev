@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Fernando Porto! </h1>
 
 
-- 🌱 Estudando para se tornar um Analista de Testes (QA).
+- 🌱 Estudando para se tornar um Dev Junior, atualmente sou QA Junior.
 - 👾 Fascinado pelo mundo dos games e da tecnologia
 
 
