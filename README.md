@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Fernando Porto! </h1>
 
 
-- 🌱 Estudando para se tornar um Desenvolvedor, atualmente sou QA Junior.
+- 🌱 Desenvolvedor Junior - Java + Angular.
 - 👾 Fascinado pelo mundo dos games e da tecnologia
 
 
