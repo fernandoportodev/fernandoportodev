@@ -47,7 +47,7 @@
 
 ###
 
-###
+##
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fernandoportodev&theme=merko&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&exclude_days=Fri%2CSat" alt="GitHub Streak" /></a>
