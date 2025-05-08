@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 🔭 Desenvolvedor Fullstack Java e Angular<br>- 📚 Formado em Análise e Desenvolvimento de Sistemas na Faculdade Descomplica<br>- 📚 Cursando Pós Gradução em Arquitetura de Sistemas .NET pela FIAP</p>
+<p align="left">- 🔭 Desenvolvedor Fullstack Java e Angular - Migrando para .NET<br>- 📚 Formado em Análise e Desenvolvimento de Sistemas na Faculdade Descomplica<br>- 📚 Cursando Pós Gradução em Arquitetura de Sistemas .NET pela FIAP</p>
 
 ###
 ###
